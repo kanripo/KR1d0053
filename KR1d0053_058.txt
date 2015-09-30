@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 58
+#+DATE: 2015-08-24 22:10:00.979327
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十八
 <pb:KR1d0053_WYG_058-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五十八¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　禮記注疏卷五十八¶
+#+PROPERTY: JUAN 卷五十八考證
 <pb:KR1d0053_WYG_058-27a>¶
 　禮記注疏卷五十八考證¶
 三年問三年之喪二十五月而畢○(臣召南/)按經言二¶
@@ -524,4 +527,3 @@
 　十四字與上文薛令弟子若是者浮相屬陳澔從其¶
 　説移此一節於鼓字之上¶
 　禮記注疏卷五十八考證¶
-

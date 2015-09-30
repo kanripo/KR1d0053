@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:10:00.329312
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR1d0053_WYG_030-1a>¶
 欽定四庫全書¶
 　禮記注疏卷三十¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　禮記注疏卷三十¶
+#+PROPERTY: JUAN 卷三十考證
 <pb:KR1d0053_WYG_030-40a>¶
 　禮記注疏巻三十考證¶
 君衣狐白裘錦衣以裼之注疏此經云君則天子兼諸¶
@@ -776,4 +779,3 @@
 　¶
 　¶
 　禮記注疏巻三十考證¶
-

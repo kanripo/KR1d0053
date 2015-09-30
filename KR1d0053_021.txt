@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:10:00.090547
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1d0053_WYG_021-1a>¶
 欽定四庫全書¶
 　禮記注疏卷二十一¶
@@ -594,6 +596,7 @@
 　¶
 　¶
 　禮記注疏卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR1d0053_WYG_021-34a>¶
 　禮記注疏卷二十一考證¶
 禮運而有志焉注志謂識古文○(臣召南/)按宋儒解作¶
@@ -666,4 +669,3 @@
 此聖人所以藏身之固也疏謹慎行之○下闕三字又¶
 　此叚闕文共五處俱三字¶
 　禮記注疏卷二十一考證¶
-

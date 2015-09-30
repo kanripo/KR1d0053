@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:10:00.295999
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1d0053_WYG_029-1a>¶
 欽定四庫全書¶
 　禮記注疏卷二十九¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　禮記注疏卷二十九¶
+#+PROPERTY: JUAN 卷二十九考證
 <pb:KR1d0053_WYG_029-33a>¶
 　禮記注疏卷二十九考證¶
 玉藻閏月則闔門左扉立于其中注天子廟及路寢皆¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　禮記注疏卷二十九考證¶
-

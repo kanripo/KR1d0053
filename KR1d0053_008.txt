@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:09:59.798891
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1d0053_WYG_008-1a>¶
 欽定四庫全書¶
 　禮記注疏卷八¶
@@ -650,6 +652,7 @@
 　¶
 　¶
 　禮記注疏卷八¶
+#+PROPERTY: JUAN 卷八考證
 <pb:KR1d0053_WYG_008-37a>¶
 　禮記注疏卷八考證¶
 公叔文子升於瑕丘注名拔○(臣召南/)按注据世本名¶
@@ -704,4 +707,3 @@
 　¶
 　¶
 　禮記注疏卷八考證¶
-

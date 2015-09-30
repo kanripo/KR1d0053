@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 52
+#+DATE: 2015-08-24 22:10:00.849102
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十二
 <pb:KR1d0053_WYG_052-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五十二¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　禮記注疏卷五十二¶
+#+PROPERTY: JUAN 卷五十二考證
 <pb:KR1d0053_WYG_052-33a>¶
 　禮記注疏卷五十二考證¶
 中庸子曰中庸其至矣乎○注疏本此及下二節俱相¶
@@ -614,4 +617,3 @@
 凡事豫則立注一謂當豫也○(臣召南/)按注甚精所當¶
 　豫者誠是也疏云一謂豫也非注之意¶
 　禮記注疏卷五十二考證¶
-

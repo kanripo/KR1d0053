@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 34
+#+DATE: 2015-08-24 22:10:00.398595
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十四
 <pb:KR1d0053_WYG_034-1a>¶
 欽定四庫全書¶
 　禮記注疏卷三十四¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　禮記注疏卷三十四¶
+#+PROPERTY: JUAN 卷三十四考證
 <pb:KR1d0053_WYG_034-21a>¶
 　禮記注疏卷三十四考證¶
 大傳追王太王亶父王季歴文王昌注文王稱王早矣¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　禯記注疏卷三十四考證¶
-

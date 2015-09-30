@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:10:00.017506
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1d0053_WYG_018-1a>¶
 欽定四庫全書¶
 　禮記注疏卷十八¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　禮記注䟽巻十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR1d0053_WYG_018-33a>¶
 　禮記注疏卷十八考證¶
 曽子問君薨而世子生疏猶稱世子異於春秋之例○¶
@@ -632,4 +635,3 @@
 　此經甚確但慈母實有不同梁武所論亦從來説經¶
 　者之所未晰也¶
 　禮記注䟽卷十八考證¶
-

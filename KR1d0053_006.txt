@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:09:59.745055
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1d0053_WYG_006-1a>¶
 欽定四庫全書¶
 　禮記注疏卷六¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　禮記注疏巻六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR1d0053_WYG_006-35a>¶
 　禮記注疏卷六考證¶
 檀弓上趨而就子服伯子於門右注疏鄭云未忍即主¶
@@ -650,4 +653,3 @@
 　¶
 　¶
 　禮記注疏卷六考證¶
-

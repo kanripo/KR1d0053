@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 59
+#+DATE: 2015-08-24 22:10:01.006879
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十九
 <pb:KR1d0053_WYG_059-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五十九¶
@@ -362,6 +364,7 @@
 　¶
 　¶
 　禮記注疏卷五十九¶
+#+PROPERTY: JUAN 卷五十九考證
 <pb:KR1d0053_WYG_059-21a>¶
 　禮記注疏卷五十九考證¶
 儒行長居宋冠章甫之冠注疏應從魯冠而猶著殷章¶
@@ -398,4 +401,3 @@
 　¶
 　¶
 　禮記注疏卷五十九考證¶
-

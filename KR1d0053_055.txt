@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 55
+#+DATE: 2015-08-24 22:10:00.927950
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十五
 <pb:KR1d0053_WYG_055-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五十五¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　禮記注疏卷五十五¶
+#+PROPERTY: JUAN 卷五十五考證
 <pb:KR1d0053_WYG_055-29a>¶
 　禮記注疏卷五十五考證¶
 緇衣為下易知也注疏○(臣召南/)按注疏俱以為臣解¶
@@ -578,4 +581,3 @@
 　¶
 　¶
 　禮記注疏卷五十五考證¶
-

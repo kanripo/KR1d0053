@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 32
+#+DATE: 2015-08-24 22:10:00.366137
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十二
 <pb:KR1d0053_WYG_032-1a>¶
 欽定四庫全書¶
 　禮記注疏卷三十二¶
@@ -416,4 +418,3 @@
 (故知宜承父稅䘮已則否之下也自若服也者若/如也謂自如尋常依限著服也凡從服者悉然也)¶
 　¶
 　禮記注疏卷三十二¶
-

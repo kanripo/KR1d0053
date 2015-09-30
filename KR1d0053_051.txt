@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 51
+#+DATE: 2015-08-24 22:10:00.815008
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十一
 <pb:KR1d0053_WYG_051-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五十一¶
@@ -722,6 +724,7 @@
 　¶
 　¶
 　禮記注疏卷五十一¶
+#+PROPERTY: JUAN 卷五十一考證
 <pb:KR1d0053_WYG_051-41a>¶
 　禮記注疏卷五十一考證¶
 孔子閒居夙夜其命宥密注基謀也疏基始也○(臣召/)¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　禮記注疏卷五十一考證¶
-

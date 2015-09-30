@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 22:09:59.723986
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1d0053_WYG_005-1a>¶
 欽定四庫全書¶
 　禮記注疏卷五¶
@@ -686,6 +688,7 @@
 　¶
 　¶
 　禮記注疏卷五¶
+#+PROPERTY: JUAN 卷五考證
 <pb:KR1d0053_WYG_005-39a>¶
 　禮記注疏卷五考證¶
 天子當依而立疏有夷鎮藩三服○(臣召南/)按藩字與¶
@@ -740,4 +743,3 @@
 　¶
 　¶
 　禮記注疏卷五考證¶
-

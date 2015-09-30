@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 43
+#+DATE: 2015-08-24 22:10:00.610322
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十三
 <pb:KR1d0053_WYG_043-1a>¶
 欽定四庫全書¶
 　禮記注疏卷四十三¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　禮記注疏卷四十三¶
+#+PROPERTY: JUAN 卷四十三考證
 <pb:KR1d0053_WYG_043-27a>¶
 　禮記注疏卷四十三考證¶
 凡弁絰其衰侈袂疏此等三衰而袂半而益一○按當¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　禮記注疏卷四十三考證¶
-

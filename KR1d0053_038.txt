@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 38
+#+DATE: 2015-08-24 22:10:00.478072
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十八
 <pb:KR1d0053_WYG_038-1a>¶
 欽定四庫全書¶
 　禮記注疏卷三十八¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　禮記注疏卷三十八¶
+#+PROPERTY: JUAN 卷三十八考證
 <pb:KR1d0053_WYG_038-29a>¶
 　禮記注疏卷三十八考證¶
 昔者舜作五絃之琴以歌南風注南風長飬之風也以¶
@@ -560,4 +563,3 @@
 　¶
 　¶
 　禮記注疏卷三十八考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:09:59.822240
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1d0053_WYG_009-1a>¶
 欽定四庫全書¶
 　禮記注疏卷九¶
@@ -812,6 +814,7 @@
 　¶
 　¶
 　禮記注疏卷九¶
+#+PROPERTY: JUAN 卷九考證
 <pb:KR1d0053_WYG_009-46a>¶
 　禮記注疏卷九考證¶
 檀弓下車三乘疏則國王宜九乘○王字上不應有國¶
@@ -866,4 +869,3 @@
 　¶
 　¶
 　禮記注疏卷九考證¶
-

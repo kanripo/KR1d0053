@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禮記註疏
-#+DATE: 2015-09-23 09:38:05
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:09:59.919318
+#+PROPERTY: ID KR1d0053
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1d0053_WYG_013-1a>¶
 欽定四庫全書¶
 　禮記注疏卷十三¶
@@ -740,6 +742,7 @@
 　¶
 　¶
 　禮記注疏卷十三¶
+#+PROPERTY: JUAN 卷十三考證
 <pb:KR1d0053_WYG_013-42a>¶
 　禮記注疏卷十三考證¶
 樂正崇四術立四教注尚書傳曰年十五始入小學十¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　禮記注疏卷十三考證¶
-
